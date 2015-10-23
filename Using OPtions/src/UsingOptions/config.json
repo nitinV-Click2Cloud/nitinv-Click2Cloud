@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+		"DefaultConnection": {
+			"ConnectionString": "Server=(WSD001)\\SQLEXPRESS;Database=dnn4;Trusted_Connection=True;"
+		}
+	}
+}
